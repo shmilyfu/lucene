@@ -1,5 +1,6 @@
 # Table of contents
 
-* Initial page
-* [Lucene](lucene.md)
+* Lucene
+* [目录](1.lucene.md)
+* Untitled
 
